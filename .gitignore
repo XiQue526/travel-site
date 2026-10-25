@@ -1,0 +1,15 @@
+# 忽略依赖包
+node_modules
+
+# 忽略构建输出
+dist
+dist-ssr
+
+# 忽略本地环境变量
+*.local
+
+# 忽略编辑器缓存
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
